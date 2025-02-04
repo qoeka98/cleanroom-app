@@ -1,4 +1,8 @@
 streamlit
+pandas
 numpy
+scikit-learn
+matplotlib
 tensorflow==2.15
-PIL
+keras
+pillow  
